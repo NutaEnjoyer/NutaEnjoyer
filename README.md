@@ -20,7 +20,7 @@
 class Developer:
     def __init__(self):
         self.name = "Maxim"
-        self.role = "Backend Developer | Frontend Enjoyer"
+        self.role = "Software engineer"
         self.passion = "Clean, optimized code ⌨️"
         self.interests = [
             "Web Development", 
